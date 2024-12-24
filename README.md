@@ -4,16 +4,16 @@
 
 This project was completed as a final project for DSC405 at North Carolina State University. It was developed collaboratively with two other group members to demonstrate proficiency in web scraping techniques and the application of Python libraries to solve real-world problems.
 
-#### Background
+#### **Background**
 Raleigh, NC has seen a significant increase in events, festivals, and community gatherings, contributing to its vibrant cultural and social scene. However, discovering these events can be a challenge due to fragmented information spread across multiple websites.
 
-#### Problem Statement
+#### **Problem Statement**
 Finding local events in Raleigh is inefficient and time-consuming due to the scattered nature of event information across various platforms.
 
-#### Proposed Solution
+#### **Proposed Solution**
 This project provides a data-science-driven solution to simplify event discovery. By scraping local event websites and consolidating the results into a single, user-friendly dataset, users can easily find and explore events in one centralized location.
 
-#### Ethical Considerations
+#### **Ethical Considerations**
 - **Attribution**: All scraped data will include proper credit to the original sources.
 - **Responsible Scraping**: We employ techniques to minimize disruption to the functionality and performance of the websites we scrape.
 
