@@ -37,7 +37,7 @@ The following Python packages were utilized:
 ---
 
 ### Final Dataset Metadata
-- **Output File**: `sample_output.csv`
+- **Output File**: `data/sample_output.csv`
 - **Columns**:
   - `Title`: Event name.
   - `Date`: Date of the event.
@@ -67,7 +67,7 @@ Ensure you have Python installed, then run:
 Open scraping_demo.ipynb in Jupyter Notebook or your preferred environment and run the cells.
 
 5.	Output:
-The sample_output.csv file will be generated in the project directory.
+The sample_output.csv file will be generated under the `data/` directory.
 
 ---
 ## Acknowledgments
