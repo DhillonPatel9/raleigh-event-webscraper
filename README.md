@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project was completed as a final project for DSC405 at North Carolina State University. It was developed collaboratively with two other group members to demonstrate proficiency in web scraping techniques and the application of Python libraries to solve real-world problems.
+This project was completed as a final project for DSC 405 at North Carolina State University. It was developed collaboratively with two other group members to demonstrate proficiency in web scraping techniques and the application of Python libraries to solve real-world problems.
 
 #### **Background**
 Raleigh, NC has seen a significant increase in events, festivals, and community gatherings, contributing to its vibrant cultural and social scene. However, discovering these events can be a challenge due to fragmented information spread across multiple websites.
