@@ -64,7 +64,7 @@ The following Python packages were utilized:
 2. **Navigate to the Database and Docker Files Directories**:
    After cloning the repository, change to the `raleigh-event-webscraper` directory:
    ```bash
-   cd raleigh-event-webscrape
+   cd raleigh-event-webscraper
    ```
 
 3.	**Install Dependencies**:
