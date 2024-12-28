@@ -58,7 +58,7 @@ The following Python packages were utilized:
 ### How to Run This Project
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/webscraping-events-raleigh.git
+   https://github.com/DhillonPatel9/raleigh-event-webscraper.git
    ```
    
 2. **Navigate to the Database and Docker Files Directories**:
