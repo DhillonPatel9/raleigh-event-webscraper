@@ -14,8 +14,8 @@ Finding local events in Raleigh is inefficient and time-consuming due to the sca
 This project provides a data-science-driven solution to simplify event discovery. By scraping local event websites and consolidating the results into a single, user-friendly dataset, users can easily find and explore events in one centralized location.
 
 #### **Ethical Considerations**
-- **Attribution**: All scraped data will include proper credit to the original sources.
-- **Responsible Scraping**: Techniques are employed to minimize disruption to the functionality and performance of the scraped websites.
+**Recognition**: All scraped data will include proper credit to the original sources.
+**Responsible Scraping**: Techniques (crawl delay) are employed to minimize disruption to the functionality and performance of the scraped websites.
 
 ---
 
