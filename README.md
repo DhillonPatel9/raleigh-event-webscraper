@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project was completed as a final project for DSC 405 at North Carolina State University. It was developed collaboratively with two other group members to demonstrate proficiency in web scraping techniques and the application of Python libraries to solve real-world problems.
+This project was completed to demonstrate proficiency in web scraping techniques and the application of Python libraries to solve real-world problems.
 
 #### **Background**
 Raleigh, NC has seen a significant increase in events, festivals, and community gatherings, contributing to its vibrant cultural and social scene. However, discovering these events can be a challenge due to fragmented information spread across multiple websites.
@@ -15,12 +15,12 @@ This project provides a data-science-driven solution to simplify event discovery
 
 #### **Ethical Considerations**
 - **Attribution**: All scraped data will include proper credit to the original sources.
-- **Responsible Scraping**: We employ techniques to minimize disruption to the functionality and performance of the websites we scrape.
+- **Responsible Scraping**: Techniques are employed to minimize disruption to the functionality and performance of the scraped websites.
 
 ---
 
 ### Scraped Data Sources
-We collected event data (title, date, time, and ticket link) from the following websites:
+Event data (title, date, time, and ticket link) was collected from the following websites:
 1. [Goodnights Comedy Club](https://www.goodnightscomedy.com/)
 2. [Lenovo Center](https://www.lenovocenter.com/events)
 3. [Coastal Credit Union Music Park](https://www.coastalcreditunionmusicpark.com/shows)
