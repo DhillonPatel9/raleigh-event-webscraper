@@ -56,7 +56,7 @@ The following Python packages were utilized:
 ---
 
 ### How to Run This Project
-1. **Clone the Repository**:
+1. **Open the Terminal and Clone the Repository**:
    ```bash
    https://github.com/DhillonPatel9/raleigh-event-webscraper.git
    ```
