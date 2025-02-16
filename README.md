@@ -61,7 +61,7 @@ The following Python packages were utilized:
    https://github.com/DhillonPatel9/raleigh-event-webscraper.git
    ```
    
-2. **Navigate to the Database and Docker Files Directories**:
+2. **Navigate to Docker Files Directories**:
    After cloning the repository, change to the `raleigh-event-webscraper` directory:
    ```bash
    cd raleigh-event-webscraper
@@ -74,7 +74,7 @@ Ensure you have Python installed, then run:
     ```
     
 4.	Run the Notebook:
-Open scraping_demo.ipynb in Jupyter Notebook or your preferred environment and run the cells.
+Open scraping_demo.ipynb in Jupyter Notebook or your preferred IDE and run the cells.
 
 5.	Output:
 The sample_output.csv file will be generated under the `data` directory.
